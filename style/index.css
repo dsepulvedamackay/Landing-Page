@@ -122,7 +122,7 @@ ul{
 
 
 #cabecera{
-	background-image: url(img/492784.png);
+	background-image: url(../img/492784.png);
 	background-size: cover;
 	background-attachment: fixed;
 	height: 48vw; 
@@ -164,7 +164,7 @@ ul{
 
 #contacto{
 	display: inline-flex;
-	background-image: url(img/4927841.png);
+	background-image: url(../img/4927841.png);
 	background-size: cover;
 	background-attachment: fixed;
 }
